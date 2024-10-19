@@ -1,6 +1,8 @@
 # LSTM Wind Speed Prediction Documentation
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/wind-speed.png"/>
 
+[![Open in Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-blue?style=flat&logo=googlecolab)](https://colab.research.google.com/drive/1zSBZl_BOLwNUjKmZMQ2twBDiA8qImwV8?usp=sharing)
+
 ## Overview
 
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Logos/Website%20Logos/wind.jpg" width="110"/>

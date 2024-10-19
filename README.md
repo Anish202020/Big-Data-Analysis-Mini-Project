@@ -1,7 +1,7 @@
 # LSTM Wind Speed Prediction Documentation
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/wind-speed.png"/>
 
-[![Open in Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-blue?style=flat&logo=googlecolab)](https://colab.research.google.com/drive/1zSBZl_BOLwNUjKmZMQ2twBDiA8qImwV8?usp=sharing)
+
 
 ## Overview
 
@@ -9,9 +9,12 @@
 
 This document provides an overview and explanation of the code designed to train an LSTM (Long Short-Term Memory) model to predict wind speed based on historical data.
 
-This project includes a detailed report.
+## My Project
+This project includes a detailed report available in PDF format and Google Colab Execution.
 
-[Download the PDF](https://github.com/Anish202020/Big-Data-Analysis-Mini-Project/blob/main/Big%20Data%20Mini%20Project-2.0.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-PDF-blue?style=flat)](https://github.com/Anish202020/Big-Data-Analysis-Mini-Project/blob/main/Big%20Data%20Mini%20Project-2.0.pdf)
+[![Open in Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-blue?style=flat&logo=googlecolab)](https://colab.research.google.com/drive/1zSBZl_BOLwNUjKmZMQ2twBDiA8qImwV8?usp=sharing)
+
 
 ## Table of Contents
 1. [﻿Introduction](https://#introduction) 

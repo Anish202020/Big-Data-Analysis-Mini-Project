@@ -7,6 +7,10 @@
 
 This document provides an overview and explanation of the code designed to train an LSTM (Long Short-Term Memory) model to predict wind speed based on historical data.
 
+This project includes a detailed report.
+
+[Download the PDF](https://github.com/Anish202020/Big-Data-Analysis-Mini-Project/blob/main/Big%20Data%20Mini%20Project-2.0.pdf)
+
 ## Table of Contents
 1. [﻿Introduction](https://#introduction) 
 2. [﻿Data Requirements](https://#data-requirements) 

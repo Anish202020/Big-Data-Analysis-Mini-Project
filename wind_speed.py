@@ -1,8 +1,9 @@
+# Importing the Libraries
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
+from keras._tf_keras.keras.models import Sequential
+from keras._tf_keras.keras.layers import Dense,LSTM
 from keras import metrics
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split

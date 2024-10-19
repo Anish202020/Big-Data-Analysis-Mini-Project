@@ -1,7 +1,10 @@
 # LSTM Wind Speed Prediction Documentation
-
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/wind-speed.png"/>
 
 ## Overview
+
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Logos/Website%20Logos/wind.jpg" width="110"/>
+
 This document provides an overview and explanation of the code designed to train an LSTM (Long Short-Term Memory) model to predict wind speed based on historical data.
 
 ## Table of Contents

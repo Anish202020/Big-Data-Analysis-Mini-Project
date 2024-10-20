@@ -1,5 +1,5 @@
 # LSTM Wind Speed Prediction Documentation
-<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/wind-speed.png"/>
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Machine%20Learning/wind-speed.png"/>
 
 
 
